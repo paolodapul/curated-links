@@ -17,3 +17,4 @@ A collection of my favorite content - as a software developer.
 - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
 - [John Carmack on Lex Fridman's Podcast](https://www.youtube.com/watch?v=I845O57ZSy4)
 - [Front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development)
+- [How to talk about deadlines at work](https://newsletter.weskao.com/p/how-to-talk-about-deadlines-at-work)
